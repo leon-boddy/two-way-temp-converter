@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class AdditionalActivity extends AppCompatActivity {
 
-    //Widgets
+    //Widgets Woo
     EditText etInputTemp;
     TextView tvOutputTemp;
     Button btnConvert;
