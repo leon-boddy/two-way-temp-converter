@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two Way Temperature Converter</string>
+    <string name="celsius_to_fahrenheit">Celsious to Farenheit</string>
+    <string name="enter_temperature">Enter Temp</string>
+    <string name="convert">Convert</string>
+    <string name="converted_temperature">Converted Temperature</string>
+    <string name="open_additional">Fahrenheit to Celsius</string>
+    <string name="open_main">Celsius to Fahrenheit</string>
+</resources>
